@@ -1,0 +1,85 @@
+h1{
+  border-style: solid;
+  border-width: 5px;
+  margin-left: 390px;
+  margin-right: 390px;
+  text-align: center;
+  padding: 10px;
+  color: white;
+  border: 3px;
+  border-color: navy;
+  background-color:black;
+  border-radius: 5px;
+}
+#p1{
+  border-style: ridge;
+  border: 3px;
+  background-color:aliceblue;
+  border-radius: 5px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding: 5px;
+  text-align: center;
+  width: 600px;
+}
+#bg{
+  background-image: -o-repeating-linear-gradient();
+  border-style: hidden
+}
+#img1{
+  height: 110px;
+  width: 350px;
+
+  position: absolute;
+
+  top: 20px;
+  left: 25px;
+}
+#img2{
+  height: 155px;
+  width: 290px;
+
+  position: absolute;
+
+  top: 20px;
+  right: 35px;
+}
+#box1{
+  font-size: 20px;
+  border-style: solid;
+  border: 3px;
+  border-color: navy;
+  background-color:navy;
+  color: white;
+  border-radius: 5px;
+  padding: 10px;
+  text-align: center;
+  width: 600px;
+}
+body{
+  background-image: url(mathbg.png);
+  background-repeat: repeat;
+  background-attachment:fixed;
+  background-position: center;
+  background-size: cover;
+}
+a{
+   background-color: peachpuff;
+   padding: 5px;
+   border-style: hidden;
+   border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
